@@ -1,0 +1,207 @@
+@media screen and (min-width: 320px) and (max-width: 360px) {
+    body {
+        display: block;
+        justify-content: unset;
+    }
+    div.main {
+        display: flex;
+        width: 95%;
+        margin: auto;
+        height: auto;
+        padding-top: 7px;
+    }
+    div.main div.account select {
+        font-size: 15px;
+        margin: 10px 0px;
+        padding: 7px 5px;
+    }
+    div.main div.account button b {
+        font-size: 10px;
+    }
+    div.main div.form h2 {
+        font-size: 15px;
+    }
+    div.main div.form form div.box label {
+        font-size: 15px;
+    }
+    div.main div.form form div.box input {
+        width: 100%;
+    }
+    div.main div.form form div.box input:placeholder-shown {
+        font-size: 14px;
+    }
+    div.flow label {
+        font-size: 15px;
+        padding-left: 2.5px;
+    }
+    div.main div.form input[type="submit"] {
+        font-size: 15px;
+        padding: 8px 0px;
+        margin-top: 12px;
+        font-weight: bolder;
+    }
+    div.main div.form button a {
+        padding: 5px 0px;
+        margin-top: 10px;
+        font-size: 15px;
+        font-weight: bolder;
+    }
+    div.main div.form>p {
+        padding: 7px 3px;
+    }
+    div.main div.form>p a {
+        font-size: 15px;
+        padding-left: 50px;
+    }
+    div.picture {
+        width: auto;
+        display: block;
+    }
+    div.picture img {
+        position: absolute;
+        top: 0;
+        z-index: -1;
+        max-width: 100%;
+        height: 100%;
+    }
+    div.picture div.slider {
+        position: absolute;
+    }
+    div.picture div.slider p {
+        padding-left: 7px;
+    }
+}
+
+
+/*@media screen and (min-width: 360px) {
+    body {}
+}
+*/
+
+@media screen and (min-width: 361px) and (max-width: 435px) {
+    body {
+        display: block;
+        justify-content: unset;
+    }
+    div.main {
+        display: flex;
+        width: 95%;
+        margin: auto;
+        height: auto;
+        padding-top: 7px;
+    }
+    div.main div.account select {
+        font-size: 15px;
+        margin: 10px 0px;
+        padding: 7px 5px;
+    }
+    div.main div.account button b {
+        font-size: 10px;
+    }
+    div.main div.form h2 {
+        font-size: 15px;
+    }
+    div.main div.form form div.box label {
+        font-size: 15px;
+    }
+    div.main div.form form div.box input {
+        width: 100%;
+    }
+    div.main div.form form div.box input:placeholder-shown {
+        font-size: 14px;
+    }
+    div.flow label {
+        font-size: 15px;
+        padding-left: 2.5px;
+    }
+    div.main div.form input[type="submit"] {
+        font-size: 15px;
+        padding: 8px 0px;
+        margin-top: 12px;
+        font-weight: bolder;
+    }
+    div.main div.form button a {
+        padding: 5px 0px;
+        margin-top: 10px;
+        font-size: 15px;
+        font-weight: bolder;
+    }
+    div.main div.form>p {
+        padding: 7px 3px;
+    }
+    div.main div.form>p a {
+        font-size: 15px;
+        padding-left: 50px;
+    }
+    div.picture {
+        width: auto;
+        display: block;
+    }
+    div.picture img {
+        position: absolute;
+        top: 0;
+        z-index: -1;
+        max-width: 100%;
+        height: 100%;
+    }
+    div.picture div.slider {
+        position: absolute;
+    }
+    div.picture div.slider p {
+        padding-left: 7px;
+    }
+}
+
+@media screen and (min-width: 435px) {
+    div.main div.account select {
+        font-size: 20px;
+    }
+    div.main div.form {
+        /* width: 95%; */
+    }
+    div.main div.form h2 {
+        font-size: 18px;
+    }
+    div.main div.form form div.box label {
+        font-size: 18px;
+    }
+    div.main div.form form div.box input:placeholder-shown {
+        font-size: 16px;
+    }
+    div.main div.form>p {
+        padding: 18px 8px;
+    }
+    div.main div.form>p a {
+        font-size: 18px;
+        padding-left: 90px;
+    }
+}
+
+@media screen and (min-width: 681px) and (max-width: 780px) {
+    div.main {
+        width: 45%;
+        margin: auto;
+        padding-top: 15px;
+        padding-left: 15px;
+    }
+    div.main div.account select {
+        padding: 8px 8px;
+        font-size: 14px;
+        margin: 15px 0px;
+    }
+    div.main div.form form {
+        padding-top: 25px;
+    }
+    div.main div.form h2 {
+        font-size: 20px;
+    }
+    div.main div.form form div.box label {
+        font-size: 16px;
+    }
+    div.main div.form form div.box input:placeholder-shown {
+        font-size: 14px;
+    }
+    div.picture {
+        width: 55%;
+    }
+}
