@@ -2,12 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: none;
-    font-family: quicksand;
-}
-
-@font-face {
-    font-family: quicksand;
-    src: url("./Quicksand-VariableFont_wght.ttf");
+    font-family: 'Quicksand' sans-seriff;
 }
 
 body {
