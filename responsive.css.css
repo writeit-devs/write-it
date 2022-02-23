@@ -55,7 +55,7 @@
     }
     div.picture {
         width: auto;
-        display: block;
+        display: none;
 visibility:hidden;
     }
     div.picture img {
